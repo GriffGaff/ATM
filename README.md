@@ -1,2 +1,1 @@
-This ATM API which performs basic functions of an automated teller machine, is built with C# programming language.
-It's a work in progress, subsequent updates will include the API being stored on a database, making use of SQL for database management.
+This portfolio project involves creating a basic automated teller machine (ATM) using C# on Linux. The ATM offers functionalities like deposit, withdrawal, and balance checking. Currently a work in progress, future updates aim to incorporate an SQL database to manage the API and its data.
